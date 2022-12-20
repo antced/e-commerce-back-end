@@ -1,8 +1,10 @@
 # E-Commerce Back End
 
-![screenshot](./)
+![screenshot](./images/13-orm-homework-demo-01.gif)
 
 ## Description
+
+https://drive.google.com/file/d/1U3UtFWzxH1b7drmfPRrLON-yryFrtolJ/view?usp=sharing
 
 This is a back end for an e-commerce website. It uses Express.js for the API and Sequelize to connect to a MySQL database.
 
